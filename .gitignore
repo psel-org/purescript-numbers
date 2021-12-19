@@ -2,5 +2,7 @@
 /node_modules/
 /.pulp-cache/
 /output/
+/output.el/
 /.psci*
 /src/.webpack.js
+/.spago/
